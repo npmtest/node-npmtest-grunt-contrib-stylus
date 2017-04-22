@@ -1,4 +1,7 @@
-# test coverage for  [grunt-contrib-stylus (v1.2.0)](https://github.com/gruntjs/grunt-contrib-stylus#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-stylus.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-stylus) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-stylus.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-stylus)
+# npmtest-grunt-contrib-stylus
+
+#### basic test coverage for  [grunt-contrib-stylus (v1.2.0)](https://github.com/gruntjs/grunt-contrib-stylus#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-stylus.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-stylus) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-stylus.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-stylus)
+
 #### Compile Stylus files to CSS
 
 [![NPM](https://nodei.co/npm/grunt-contrib-stylus.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-contrib-stylus)
@@ -175,7 +178,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "1.2.0"
+    "version": "1.2.0",
+    "bin": {}
 }
 ```
 
